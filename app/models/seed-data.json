@@ -1,0 +1,47 @@
+{
+  "users": {
+    "_model": "User",
+    "homer": {
+      "firstName": "Homer",
+      "lastName": "Simpson",
+      "email": "homer@simpson.com",
+      "password": "secret"
+    },
+    "marge": {
+      "firstName": "Marge",
+      "lastName": "Simpson",
+      "email": "marge@simpson.com",
+      "password": "secret"
+    },
+    "bart": {
+      "firstName": "Bart",
+      "lastName": "Simpson",
+      "email": "bart@simpson.com",
+      "password": "secret"
+    }
+},
+  "poi": {
+    "_model": "Poi",
+    "one": {
+      "poiName": "Cape Clear",
+      "poiDescription": "Island off the cork coast",
+      "poiCategory": "Island",
+      "poiLatitude": "51.435590",
+      "poiLongitude": "-9.496275"
+    },
+    "two": {
+      "poiName": "Whiddy Island",
+      "poiDescription": "Island off the cork coast",
+      "poiCategory": "Island",
+      "poiLatitude": "51.694385",
+      "poiLongitude": "-9.497414"
+    },
+    "three": {
+      "poiName": "Bear Island",
+      "poiDescription": "Island off the cork coast",
+      "poiCategory": "Island",
+      "poiLatitude": "51.625679",
+      "poiLongitude": "-9.868438"
+    }
+  }
+}

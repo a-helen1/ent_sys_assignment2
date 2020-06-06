@@ -11,4 +11,4 @@ const poiSchema = new Schema({
   poiLongitude: Number
 });
 
-module.exports = Mongoose.model('POI', poiSchema);
+module.exports = Mongoose.model('Poi', poiSchema);
