@@ -11,7 +11,7 @@ suite('POI API tests', function() {
   let pois = fixtures.pois;
   let newPoi = fixtures.newPoi;
 
-  const poiService = new PoiService('http://localhost:3000');
+  const poiService = new PoiService(fixtures.poiService);
 
   setup(async function () {
     await poiService.deleteAllPois();
