@@ -1,0 +1,47 @@
+{
+  "poiService": "http://localhost:3000",
+  "users": [
+    {
+      "firstName": "Homer",
+      "lastName": "Simpson",
+      "email": "homer@simpson.com",
+      "password": "secret"
+    },
+    {
+      "firstName": "Marge",
+      "lastName": "Simpson",
+      "email": "marge@simpson.com",
+      "password": "secret"
+    },
+    {
+      "firstName": "Bart",
+      "lastName": "Simpson",
+      "email": "bart@simpson.com",
+      "password": "secret"
+    }
+  ],
+  "pois": [
+    {
+      "poiName": "Sherkin Island",
+      "poiDescription": "Island off Cork",
+      "poiCategory": "Island",
+      "poiLatitude": "51.463957",
+      "poiLongitude": "-9.418642"
+    },
+    {
+      "poiName": "Long Island",
+      "poiDescription": "Island off Cork",
+      "poiCategory": "Island",
+      "poiLatitude": "51.494978",
+      "poiLongitude": "-9.563436"
+    }
+  ],
+  "newPoi":
+  {
+    "poiName": "Horse Island",
+    "poiDescription": "Island off Cork",
+    "poiCategory": "Island",
+    "poiLatitude": "51.515206",
+    "poiLongitude": "-9.471298"
+  }
+}
