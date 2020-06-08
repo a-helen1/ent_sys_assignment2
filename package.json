@@ -25,6 +25,8 @@
     "mongoose": "^5.9.2"
   },
   "devDependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.0",
     "nyc": "^15.1.0",
     "prettier": "^1.19.1"
   },
