@@ -20,6 +20,13 @@
       "password": "secret"
     }
   ],
+  "newUser":
+  {
+    "firstName": "Barney",
+    "lastName": "Grumble",
+    "email": "barney@simpson.com",
+    "password": "secret"
+  },
   "pois": [
     {
       "poiName": "Sherkin Island",
